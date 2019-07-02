@@ -1,3 +1,3 @@
 # wireFrame
 
-Fundamental working diagram for web page layout.  Repurposed code and repository to fix 404 error.# WireFrame1
+Fundamental working diagram for web page layout.  404 error persists even though code works in vs code.  
